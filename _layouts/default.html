@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f7f9fc" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b1220" media="(prefers-color-scheme: dark)">
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✈️</text></svg>">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="返回科学上网首页">
+        <span class="brand-mark" aria-hidden="true">✈️</span>
+        <span class="brand-copy"><strong>科学上网</strong><small>使用指南 · 资源导航</small></span>
+      </a>
+      <nav class="top-nav" aria-label="主要导航">
+        <a href="{{ '/' | relative_url }}">首页</a>
+        <a href="{{ '/download.html' | relative_url }}">客户端下载</a>
+        <a href="{{ '/ss.html' | relative_url }}">节点与订阅</a>
+        <a href="https://github.com/iosrjk/fanqiang" target="_blank" rel="noopener">GitHub ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <article class="markdown-body">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© {{ 'now' | date: '%Y' }} 科学上网</span>
+      <span>多平台网络工具 · 使用指南 · 资源导航</span>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,27 @@
+title: 科学上网
+description: 多平台网络工具 · 使用指南 · 资源导航
+lang: zh-CN
+encoding: UTF-8
+baseurl: /fanqiang
+url: https://iosrjk.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+relative_links:
+  enabled: true
+  collections: true
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - LICENSE
+  - README.md
+  - AUTO_UPDATE.md
+  - scripts
