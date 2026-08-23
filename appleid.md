@@ -33,7 +33,6 @@
 | 服务 | 入口 |
 | :--- | :--- |
 | 🍎 果书 | [点击获取共享账号](https://idshare001.me/goso.html) |
-| 🚀 小火箭共享 | [点击获取共享账号](https://id.bocchi.vip/) |
 | 📦 CC 宝盒 | [点击获取共享账号](https://ccbaohe.com/appleID/) |
 | ⭐ 小优 | [点击获取共享账号](https://idfree.top/) |
 
@@ -47,8 +46,11 @@
 ### 1. 退出当前 App Store 账号
 
 iOS26系统以下打开：**App Store → 右上角头像 → 拉到底部 → 退出登录（旧版本系统）**
+
 ![切换 Apple ID](https://p1.meituan.net/csc/33ea845d2b0aa3a9288bdc66b87fa0fa136325.png)
+
 iOS26系统以上打开：**设置 → Apple账号 → 媒体与购买项目 → 退出登录（新版本系统）**
+
 ![退出 App Store 账号新](https://p0.meituan.net/csc/32681992ca8026e88774e89cf0710d2e348963.png)
 
 ![退出 App Store 账号](https://img.muooy.com/img/1/2025/06/27/685e58601efd5.webp)
