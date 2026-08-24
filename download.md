@@ -67,7 +67,7 @@
 <td align="center"><strong>Windows 下载</strong></td>
 <td>
 
-<a href="https://github.com/2dust/v2rayN/releases/download/7.24.8/v2rayN-windows-64.zip">
+<a href="https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip">
 <img src="https://img.shields.io/badge/Portable-x64-2d7d9a?logo=windows">
 </a>
 
@@ -79,7 +79,7 @@
 <td align="center"><strong>Windows 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.24.8/v2rayN-windows-64.zip">
+<a href="https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.24.4/v2rayN-windows-64.zip">
 <img src="https://img.shields.io/badge/Portable-x64-2d7d9a?logo=windows">
 </a>
 
