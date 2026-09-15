@@ -109,15 +109,15 @@
 <td align="center"><strong>Android 下载</strong></td>
 <td>
 
-<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-arm64-v8a-release.apk">
+<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-arm64-v8a-release.apk">
 <img src="https://img.shields.io/badge/APK-ARMv8-168039?logo=android">
 </a>
 <br>
-<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-armeabi-v7a-release.apk">
+<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-armeabi-v7a-release.apk">
 <img src="https://img.shields.io/badge/APK-ARMv7-45bf55?logo=android">
 </a>
 <br>
-<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-universal-release.apk">
+<a href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-universal-release.apk">
 <img src="https://img.shields.io/badge/APK-x64-96ed89?logo=android">
 </a>
 
@@ -128,15 +128,15 @@
 <td align="center"><strong>Android 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-arm64-v8a-release.apk">
+<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-arm64-v8a-release.apk">
 <img src="https://img.shields.io/badge/APK-ARMv8-168039?logo=android">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-armeabi-v7a-release.apk">
+<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-armeabi-v7a-release.apk">
 <img src="https://img.shields.io/badge/APK-ARMv7-45bf55?logo=android">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.33/cmfa-2.11.33-meta-universal-release.apk">
+<a href="https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.34/cmfa-2.11.34-meta-universal-release.apk">
 <img src="https://img.shields.io/badge/APK-x64-96ed89?logo=android">
 </a>
 
