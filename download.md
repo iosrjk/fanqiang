@@ -22,11 +22,11 @@
 <td align="center"><strong>Windows 下载</strong></td>
 <td>
 
-<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe">
+<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64-setup.exe">
 <img src="https://img.shields.io/badge/Setup-x64-2d7d9a?logo=windows">
 </a>
 <br>
-<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64_fixed_webview2-setup.exe">
+<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64_fixed_webview2-setup.exe">
 <img src="https://img.shields.io/badge/Webview2-x64-67b7d1?logo=windows">
 </a>
 
@@ -37,11 +37,11 @@
 <td align="center"><strong>Windows 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64-setup.exe">
+<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64-setup.exe">
 <img src="https://img.shields.io/badge/Setup-x64-2d7d9a?logo=windows">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64_fixed_webview2-setup.exe">
+<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64_fixed_webview2-setup.exe">
 <img src="https://img.shields.io/badge/Webview2-x64-67b7d1?logo=windows">
 </a>
 
@@ -230,11 +230,11 @@
 <td align="center"><strong>macOS 下载</strong></td>
 <td>
 
-<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_aarch64.dmg">
+<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_aarch64.dmg">
 <img src="https://img.shields.io/badge/DMG-Apple%20Silicon-000000?logo=apple">
 </a>
 <br>
-<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64.dmg">
+<a href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64.dmg">
 <img src="https://img.shields.io/badge/DMG-Intel%20x64-00A9E0?logo=apple">
 </a>
 
@@ -245,11 +245,11 @@
 <td align="center"><strong>macOS 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_aarch64.dmg">
+<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_aarch64.dmg">
 <img src="https://img.shields.io/badge/DMG-Apple%20Silicon-000000?logo=apple">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64.dmg">
+<a href="https://gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.5/Clash.Verge_2.5.5_x64.dmg">
 <img src="https://img.shields.io/badge/DMG-Intel%20x64-00A9E0?logo=apple">
 </a>
 
