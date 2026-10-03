@@ -35,6 +35,7 @@
 | 🍎 果书 | [点击获取共享账号](https://idshare001.me/goso.html) |
 | 📦 CC 宝盒 | [点击获取共享账号](https://ccbaohe.com/appleID/) |
 | ⭐ 小优 | [点击获取共享账号](https://idfree.top/) |
+| 🍑 桃子出海 | [点击获取共享账号](https://www.taozi277.com/gxid) |
 
 > **ℹ️ 说明**
 > 共享账号、密码和可用状态可能发生变化。如果当前账号不可用，请返回上一级页面重新获取。
