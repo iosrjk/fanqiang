@@ -67,7 +67,7 @@
 <td align="center"><strong>Windows 下载</strong></td>
 <td>
 
-<a href="https://github.com/2dust/v2rayN/releases/download/7.25.4/v2rayN-windows-64.zip">
+<a href="https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip">
 <img src="https://img.shields.io/badge/Portable-x64-2d7d9a?logo=windows">
 </a>
 
@@ -79,7 +79,7 @@
 <td align="center"><strong>Windows 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.25.4/v2rayN-windows-64.zip">
+<a href="https://gh-proxy.org/https://github.com/2dust/v2rayN/releases/download/7.25.6/v2rayN-windows-64.zip">
 <img src="https://img.shields.io/badge/Portable-x64-2d7d9a?logo=windows">
 </a>
 
@@ -162,15 +162,15 @@
 <td align="center"><strong>Android 下载</strong></td>
 <td>
 
-<a href="https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-arm64-v8a.apk">
+<a href="https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-arm64-v8a.apk">
 <img src="https://img.shields.io/badge/APK-ARMv8-168039?logo=android">
 </a>
 <br>
-<a href="https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-armeabi-v7a.apk">
+<a href="https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-armeabi-v7a.apk">
 <img src="https://img.shields.io/badge/APK-ARMv7-45bf55?logo=android">
 </a>
 <br>
-<a href="https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-x86_64.apk">
+<a href="https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-x86_64.apk">
 <img src="https://img.shields.io/badge/APK-x64-96ed89?logo=android">
 </a>
 
@@ -181,15 +181,15 @@
 <td align="center"><strong>Android 备用</strong></td>
 <td>
 
-<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-arm64-v8a.apk">
+<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-arm64-v8a.apk">
 <img src="https://img.shields.io/badge/APK-ARMv8-168039?logo=android">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-armeabi-v7a.apk">
+<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-armeabi-v7a.apk">
 <img src="https://img.shields.io/badge/APK-ARMv7-45bf55?logo=android">
 </a>
 <br>
-<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.8.99/FlClash-0.8.99-android-x86_64.apk">
+<a href="https://gh-proxy.org/https://github.com/chen08209/FlClash/releases/download/v0.9.0/FlClash-0.9.0-android-x86_64.apk">
 <img src="https://img.shields.io/badge/APK-x64-96ed89?logo=android">
 </a>
 
